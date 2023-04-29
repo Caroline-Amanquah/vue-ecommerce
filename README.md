@@ -1,4 +1,4 @@
-# vue-ecommerce
+# vue-ecommerce product listing page
 
 ## Project setup
 ```
