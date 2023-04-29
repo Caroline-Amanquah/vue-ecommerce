@@ -7,7 +7,8 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+➜  vue git:(main) ✗ cd vue-ecommerce 
+➜  vue-ecommerce git:(main) npm run serve 
 ```
 
 ### Compiles and minifies for production
